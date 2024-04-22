@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 WDD 230: // Web Frontend Development
 
- <a [href="https://xjomwnd.github.io/WDD-230-1/](https://github.com/xjomwnd/newrepos)"><strong>Course Portal</strong></a>
+ <a href="https://github.com/xjomwnd/newrepos"><strong>Course Portal</strong></a>
  
- <a href="https://xjomwnd.github.io/WDD-230-1/Lesson06/home.html"><strong>Chamber</strong></a>
+ <a href="[https://xjomwnd.github.io/WDD-230-1/Lesson06/home.html](https://xjomwnd.github.io/newrepos/)"><strong>Chamber</strong></a>
